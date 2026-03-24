@@ -1,2 +1,5 @@
 # portafolio-diseno
-Mi primer portafolio Web :D
+Proyecto: Portafolio Digital de Diseño Gráfico.
+Autor: Manuela Sofia Benitez Lazo.
+Institución: INEM Pasto - Grado 11.
+Licencia: Este proyecto se distribuye bajo una licencia Creative Commons Atribución-NoComercial (CC BY-NC).
