@@ -1,7 +1,7 @@
 /* Configuración para Diseñadores Gráficos */
 body {
     font-family: sans-serif;
-    background-color: #f4f4f4; /* Un gris claro de fondo */
+    background-color: #BF0034; /* Un gris claro de fondo */
     color: #333; /* Texto gris oscuro para mejor lectura */
     line-height: 1.6;
     margin: 0;
@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #2c3e50; /* Un color elegante */
+    background-color: #EE2E3B; /* Un color elegante */
     color: white;
     padding: 20px;
     text-align: center;
