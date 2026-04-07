@@ -10,14 +10,14 @@ body {
 
 header {
     background-color: #FF8C94; /* Un color elegante */
-    color: beige;
+    color: white;
     padding: 20px;
     text-align: center;
 }
 
 img {
     border-radius: 50%; /* Hace que la foto de perfil sea circular */
-    border: 5px solid #fff;
+    border: 5px solid #FEFAE0;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
 }
 
