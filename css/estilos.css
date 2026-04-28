@@ -84,6 +84,7 @@ section {
     z-index: 1000;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* Sombra para que resalte sobre el fondo */
     width: 100%;
+    border-bottom: 100px solid #000000;
 }
 
 .contenedor-menu {
@@ -125,6 +126,5 @@ section {
     background-color: #d32f2f; /* Rojo*/
     padding: 8px 18px;
     border-radius: 25px;
-    border-bottom: 100px solid #000000;
     border: 5px solid #f5b8b9;
 }
