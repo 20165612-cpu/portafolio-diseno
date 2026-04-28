@@ -105,7 +105,7 @@ section {
 .enlaces {
     list-style: none;
     display: flex;
-    gap: 70px; /* Espacio entre botones */
+    gap: 80px; /* Espacio entre botones */
     margin: 0;
 }
 
